@@ -1,1 +1,22 @@
-/*style sheet
+/*style sheet */
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif';
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+    overflow: -moz-hidden-unscrollable;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10px;
+    font-weight: bold;
+    background-color: blueviolet;
+    
+}
