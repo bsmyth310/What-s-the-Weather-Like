@@ -8,15 +8,46 @@
 
 body {
     background-color: rgb(255, 255, 255);
-    overflow: -moz-hidden-unscrollable;
+    overflow: hidden;
 }
 
 .title {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 10px;
+    height: 10vh;
     font-weight: bold;
-    background-color: blueviolet;
-    
+    width: auto;
+    background-color: blueviolet;    
+}
+
+.content {
+    display: inline-flex;
+    flex-wrap: wrap;
+    height: 10vh;
+    font-weight: bolder;
+    width: 100vw;
+}
+
+.city-search {
+    display: inline-flex;
+    flex-direction: column;
+    height: 90vh;
+    overflow: hidden;
+    width: 20%;
+    padding: 2%;
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+}
+
+.current{
+    display: flex;
+    flex-direction: column;
+    height: 30vh;
+    padding: 2vw;
+    padding-top: 0vw;
+}
+
+.current-img{
+    width: 10vw;
 }
