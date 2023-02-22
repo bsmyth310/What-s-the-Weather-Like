@@ -32,9 +32,26 @@
                 </div>
                 <div class="currents">
                     <p class="current-temp">Temperature</p>
-                    <p class=""></p>
+                    <p class="curren-wind">Wind</p>
+                    <p class="current-humidity">Humidty</p>
                 </div>
             </section>            
+            <section class="5day">
+                <h3>5-Day Forecast</h3>
+                <div class="form-check form-switch">
+                    <input class="formCheckInput" type="checkbox" role="switch" id="flexFormSwitchCheck" data-switch="Day" checked>
+                    <label class="formCheckLabel" for="flexFormSwitchCheck" id="dayNight">Day</label>
+                </div>
+                <div class="days">
+                    <div class="card">
+                        <ul class="listGroup listFlush"></ul>
+                            <li data-date class="listGroup">Date</li>
+                    </div>
+
+                </div>
+
+            </section>
+
         </div>
     </main>
 <!--api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={8983838c0d18db15bbde95683ef06804}--> 
