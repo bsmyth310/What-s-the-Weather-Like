@@ -51,3 +51,9 @@ body {
 .current-img{
     width: 10vw;
 }
+
+.currents>p{
+    font-size: large;
+    padding-bottom: 5%;
+}
+
