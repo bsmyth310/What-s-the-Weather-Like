@@ -57,3 +57,14 @@ body {
     padding-bottom: 5%;
 }
 
+.fiveDay{
+    display: flex;
+    flex-direction: column;
+    padding: 5vw;
+}
+
+.fiveDay>h2{
+    font-size: 2vw;
+    font-weight: bold;
+}
+
