@@ -1,14 +1,9 @@
 # What is the Weather Like
 <h1>Module 6 Project</h1>
 
-<h2>Create a workday scheduler that blocks time off for activities. I added more hours because my day starts earier.</h2>
+<h2>The purpose of this project is to create a weather application that finds the current and five day forecast for the city that the user searched for.</h2>
 
-<img src="Work-Day-Scheduler-SS.png" alt="Completed Scheduler" title="Completed Scheduler">
-
-
-<img src="Work-Day-Scheduler.png" alt="7am-10am not working properly" title="Not completed">
-
-<p>I was running into issues with adding extra hours and having the colors coordinate properly. Every Hourblock is saved separate from the others and is color-coded based on Past, Present, and Future. The current date and time show at the top of the page. </p>
+<img src="./assets/img/5-Day-Weather.png" alt="Completed Scheduler" title="Completed Scheduler">
 
 <h2>Getting Started</h2>
 
