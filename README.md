@@ -3,7 +3,7 @@
 
 <h2>The purpose of this project is to create a weather application that finds the current and five day forecast for the city that the user searched for.</h2>
 
-<img src="/assets/img/5-Day-Weather.png" alt="Completed Weather" title="Completed 5-Day-Weather">
+<img src="./assets/img/5-Day-Weather.png" alt="Completed Weather" title="Completed 5-Day-Weather">
 
 <h2>Getting Started</h2>
 
