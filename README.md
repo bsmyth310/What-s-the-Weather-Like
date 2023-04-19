@@ -25,5 +25,5 @@
 
 <p>Ben Smyth
 <br>
-<a href:"https://bsmyth310.github.io/What-s-the-Weather-Like-/" rel="no follow">https://bsmyth310.github.io/What-s-the-Weather-Like-/</a>
+<a href:"https://bsmyth310.github.io/What-s-the-Weather-Like-/" rel="no follow">https://bsmyth310.github.io/What-s-the-Weather-Like/</a>
 </p>
